@@ -14,7 +14,7 @@ How to use Unity Notes
 =====================
 
 1. Select the GameObject you want to add a note to.
-2. Go to Miscellaneous/Note
+2. Go to Add Component/Miscellaneous/Note
 3. Write your note!
 
 Developed By
