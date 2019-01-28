@@ -13,7 +13,7 @@ Copy the `Assets/Scripts` folder into your project's `Assets` folder.
 Compatibility
 =====================
 
-Tested in Unity 2018.3
+Tested in Unity 2018.3 and 2017.4
 
 Usage
 =====================
